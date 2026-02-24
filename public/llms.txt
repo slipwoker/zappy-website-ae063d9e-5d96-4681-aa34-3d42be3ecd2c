@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+סטודיו בוטיק למתנות ייחודיות עם הדפסה איכותית, חריטות מותאמות אישית ושזירת פרחים טריים. משלוח ארציי למתנות, פרחים לאזור עפולה. גלו מתנות שמספרות סיפור!
+
+### מתנות מותאמות אישית
+https://example.com/custom-gifts
+צרו מתנות מרגשות עם הדפסת סובלימציה איכותית וחריטות מדויקות. מתנות מותאמות אישית לכל אירוע עם משלוח ארצי. הפכו רגע רגיל למתנה בלתי נשכחת!
+
+### פרחים (אזור עפולה)
+https://example.com/flowers-afula
+זרי פרחים מעוצבים בקפידה מפרחים טריים ביותר, משלוח מהיר לעפולה והסביבה. כל זר הוא יצירת אמנות פרחונית שמביאה חיוך. הזמינו עכשיו ותרגישו את ההבדל!
+
+### צור קשר
+https://example.com/contact
+יש לכם רעיון למתנה מיוחדת? רוצים לייעץ על זר פרחים? צרו קשר עם הצוות שלנו ונעזור לכם להפוך כל אירוע לבלתי נשכח. אנחנו כאן בשבילכם!
+
+### Products
+https://example.com/products
+המוצרים שלנו - Give Gifts
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Give Gifts
+
+### Category
+https://example.com/category/:slug
+מוצרים - Give Gifts
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
